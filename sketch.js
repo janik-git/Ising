@@ -16,7 +16,7 @@ var isingSettings = {
   randomizeLattice: true,
   temperature: 4,
   magneticField: 0,
-  loopMode: 'TSWEEP',
+  loopMode: 'TLOOP',
   loopIncrement: -0.05,
   loopTargetValue: 1,
   imageFile: null,
